@@ -12,7 +12,7 @@
 
 # import <Parse/PFConstants.h>
 
-#import "PFLogger.h"
+#import "PFSystemLogger.h"
 
 static const PFLoggingTag PFLoggingTagCommon = 0;
 static const PFLoggingTag PFLoggingTagCrashReporting = 100;
